@@ -1,0 +1,19 @@
+
+Date & Time: 2024-07-02 14:35:46.103758
+Name: Theshalini Vijayakumar
+Aadhar No: 7456 3258 9654
+Voter Id: N45Tj2K8
+Theshalini Vijayakumar has voted successfully.
+
+Date & Time: 2024-07-02 14:37:53.109637
+Name: Zubeida
+Aadhar No: 7654 3985 1265
+Voter Id: H865gi
+Zubeida has voted successfully.
+
+Date & Time: 2024-07-02 14:39:45.969039
+Name: Elakkiya
+Aadhar No: 3698 7412 8526
+Voter Id: RE78df65
+Elakkiya has voted successfully.
+

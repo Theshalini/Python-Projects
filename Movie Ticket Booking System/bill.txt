@@ -1,0 +1,7 @@
+***** Movie Ticket Booking System *****
+Customer Name: Theshalini
+Movie: The Dark Knight
+Seats: 5
+Price per Ticket: Rs.125.00
+Total Cost: Rs.625.00
+***************************************
